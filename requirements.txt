@@ -1,0 +1,6 @@
+openai 
+langchain 
+flask 
+sqlite3 
+google-auth 
+google-api-python-client
