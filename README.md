@@ -1,4 +1,4 @@
-![Zero-Input-Smart-Diary](https://socialify.git.ci/DnvLikhitha/Zero-Input-Smart-Dairy/image?font=Inter&language=1&name=1&theme=Dark)
+![Zero-Input-Smart-Diary](https://socialify.git.ci/DnvLikhitha/Zero-Input-Smart-Diary/image?font=Inter&language=1&name=1&theme=Dark)
 # 📘 Zero Input Smart Diary: Your Day, Reflected
 
 **Zero Input Smart Dairy** is a smart, personal journaling assistant that automatically reflects on your day. It pulls in your Gmail emails, Google Calendar events, and Chrome history, then uses **Google Gemini AI** to generate a warm, reflective diary entry. Your diary entry is securely stored in a local SQLite database.
