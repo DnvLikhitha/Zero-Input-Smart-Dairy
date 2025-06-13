@@ -1,5 +1,5 @@
 # Zero-Input-Smart-Dairy
-
+![Zero-Input-Smart-Dairy](https://socialify.git.ci/DnvLikhitha/Zero-Input-Smart-Dairy/image?font=Inter&language=1&name=1&theme=Dark)
 This project is an intelligent personal diary generator that automatically creates a warm, reflective daily diary entry using your:
 
 - Recent Gmail messages  
